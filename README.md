@@ -1,5 +1,5 @@
 # OhHappyDay
-real-time air pollution measurement and air cleaner
+real-time air pollution, temperature and humidity measurement and air cleaner operation
 
 app icon
 
