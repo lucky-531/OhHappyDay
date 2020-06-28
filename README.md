@@ -19,7 +19,7 @@ Clothing recommendations according to temperature
 
 ![옷 추천](https://user-images.githubusercontent.com/59546977/85948943-b2886800-b98e-11ea-8360-27bda44d6c57.png)
 
-arduino circuit
+arduino circuit - DHT22, PPD42NS, LCD module, fan, relay module, HC-06
 
 ![그림1](https://user-images.githubusercontent.com/59546977/85948798-b49df700-b98d-11ea-9b8b-ec067489c75d.png)
 
