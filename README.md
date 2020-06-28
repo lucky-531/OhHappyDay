@@ -5,12 +5,9 @@ app icon
 
 ![icon3](https://user-images.githubusercontent.com/59546977/85948780-9b954600-b98d-11ea-9555-b60eca3b6393.png)
 
-screen 1
+screen 
 
 ![화면1](https://user-images.githubusercontent.com/59546977/85948898-6b9a7280-b98e-11ea-89b2-94c8ce31ff96.jpg)
-
-screen 2
-
 ![화면2](https://user-images.githubusercontent.com/59546977/85948904-7228ea00-b98e-11ea-8d61-13a03fdb5540.jpg)
 
 Character's facial expression changes depending on dust concentration
